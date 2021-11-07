@@ -1,0 +1,184 @@
+/*Estrutura do documento */
+body{
+margin: 0;
+padding: 0;
+background-color: black;
+height: 100%;
+width: 100%;
+}
+/*-----------------------------------------------------------*/
+
+
+/*Responsavel por todo o corpo  do documeno*/   
+.principal{
+width: 100%;
+}
+/*-----------------------------------------------------------*/
+
+  
+/*Cabeçalho*/
+.header-area{
+width: 100%;
+}
+/*-----------------------------------------------------------*/
+
+ 
+/*Imagem do cabeçalho*/
+.capa{
+width: 100%;
+}
+/*-----------------------------------------------------------*/
+
+ 
+/*Estilização do menu*/
+.menu-area{
+font-size: 4em;
+font-family: Russo One;
+text-align: center;
+color: rgb(0, 0, 0);
+background-color: rgb(255, 255, 255);
+width: 100%;
+line-height: 1.8;
+}
+/*-----------------------------------------------------------*/
+
+/*estilização de link padrão*/    
+a{
+color: rgb(255, 0, 0);
+text-decoration: none;
+}
+/*-----------------------------------------------------------*/
+
+
+ 
+/*Animação apos passar o mouse em um link*/
+a:hover{
+color: rgb(255, 0, 0);
+text-decoration: none;
+}
+/*-----------------------------------------------------------*/
+
+ 
+/*Animação ao passar o mouse em uma opção do menu*/
+.menu:hover{
+color: rgb(255, 0, 0);
+text-decoration: none;
+border-radius: 8px;
+background-color: black;
+padding: 8px ;
+cursor: pointer;
+transition: .8s;
+}
+/*-----------------------------------------------------------*/
+
+    
+/*Estilização do titulo*/
+.title{
+font-size: 4em;
+font-family: Russo One;
+color: red;
+padding-top: 50px;
+display: inline-block;
+}
+/*-----------------------------------------------------------*/
+
+
+/*Estilização do subtitulo*/    
+.subtitle{
+font-size: 3.5em;
+font-family: Russo One;
+color: red;
+display: inline-block;
+text-decoration: underline;
+}
+/*-----------------------------------------------------------*/
+
+        
+ 
+/*Estilização do texto*/
+.text{
+font-size: 2em;
+font-family: Play;
+color: white;
+}
+/*-----------------------------------------------------------*/
+
+
+/*Estlização de subititulos menores*/
+.color-text-red{
+color: red;
+}
+/*-----------------------------------------------------------*/
+
+
+/*Estlização do texto da ficha tecnica do processador*/
+.text-requeriments{
+font-size: 2em;
+font-family: Play;
+color: white;
+position: relative;
+bottom: 30px;
+}
+/*-----------------------------------------------------------*/
+
+    
+
+/*Estlização da borda da ficha tecnica do notebook*/
+.border-requeriments-1{
+border: 2px solid rgb(255, 255, 255);
+margin: 20px;
+padding-left: 6px;
+height: 115px;
+}
+
+.border-requeriments-2{
+border: 2px solid rgb(255, 255, 255);
+margin: 20px;
+padding-left: 6px;
+height: 150px;
+}
+
+.border-requeriments-3{
+border: 2px solid rgb(255, 255, 255);
+margin: 20px;
+padding-left: 6px;
+height: 113px;
+}
+
+.border-requeriments-4{
+border: 2px solid rgb(255, 255, 255);
+margin: 20px;
+padding-left: 6px;
+height: 80px;
+}
+
+.border-requeriments-5{
+border: 2px solid rgb(255, 255, 255);
+margin: 20px;
+padding-left: 6px;
+height: 225px;
+}
+
+.border-requeriments-6{
+border: 2px solid rgb(255, 255, 255);
+margin: 20px;
+padding-left: 6px;
+height: 225px;
+}
+/*-----------------------------------------------------------*/
+
+
+ 
+/*Rodape*/
+.baseboard{
+font-size: 2.5em;
+font-family: Bebas Neue;
+text-align: center;
+color: rgb(255, 255, 255);
+background-color: rgb(122, 5, 5);
+width: 100%;
+line-height: 1.1;
+}
+/*-----------------------------------------------------------*/
+
+
