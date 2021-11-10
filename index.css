@@ -73,7 +73,7 @@ transition: .8s;
 /*Estilização do titulo*/
 .title{
 font-size: 4em;
-font-family: Russo One;
+font-family: Play;
 color: red;
 padding-top: 50px;
 display: inline-block;
@@ -84,7 +84,7 @@ display: inline-block;
 /*Estilização do subtitulo*/
 .subtitle{
 font-size: 3.5em;
-font-family: Russo One;
+font-family: Play;
 color: red;
 display: inline-block;
 text-decoration: underline;
